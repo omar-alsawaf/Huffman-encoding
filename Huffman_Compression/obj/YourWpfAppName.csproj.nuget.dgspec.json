@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\omar samir\\Desktop\\Huffman_Compression\\YourWpfAppName.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\omar samir\\Desktop\\Huffman_Compression\\YourWpfAppName.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omar samir\\Desktop\\Huffman_Compression\\YourWpfAppName.csproj",
+        "projectName": "YourWpfAppName",
+        "projectPath": "C:\\Users\\omar samir\\Desktop\\Huffman_Compression\\YourWpfAppName.csproj",
+        "packagesPath": "C:\\Users\\omar samir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omar samir\\Desktop\\Huffman_Compression\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omar samir\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
